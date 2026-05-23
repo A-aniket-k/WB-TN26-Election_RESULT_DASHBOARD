@@ -2,7 +2,9 @@
 
 An interactive, end-to-end Power BI business intelligence project that structures, processes, and visualizes regional election data. This project showcases the complete lifecycle of data analysis—moving from raw public web spaces and API endpoints to a highly synchronized, interactive geographic dashboard.
 
-*(Tip: Replace this text later with your actual dashboard screenshot!)*
+<img width="1438" height="795" alt="Screenshot 2026-05-23 213336" src="https://github.com/user-attachments/assets/93411a6b-ebdf-488a-973a-5a4926e28342" />
+<img width="1429" height="801" alt="Screenshot 2026-05-23 213352" src="https://github.com/user-attachments/assets/5d58e2a2-42c2-403a-b613-4a720c59dc9f" />
+
 
 ---
 
